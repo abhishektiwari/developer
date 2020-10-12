@@ -28,8 +28,10 @@
     --ifm-navbar-link-hover-color: #eef4ff;
     --ifm-footer-background-color: #3e7afc;
     --ifm-color-primary-rgb: 40, 217, 242;
-    --ifm-footer-link-color: #fff;
-    --ifm-footer-title-color: #fff;
+    --ifm-footer-link-color: white;
+    --ifm-footer-link-hover-color: white;
+    --ifm-footer-title-color: white;
+    --ifm-footer-color: white;
     --ifm-font-weight-semibold: 600;
     --ifm-font-size-base: 1rem;
     --ifm-panel-background-color: var(--ifm-color-primary);
@@ -143,5 +145,6 @@ html[data-theme="dark"] {
 }
 
 footer .container .text {
-    color: #fff;
+    color: white;
+    font-weight: 700;
 }

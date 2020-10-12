@@ -12,7 +12,7 @@ const features = [
     imageUrl: 'img/getting-started.svg',
     description: (
       <>
-        A step-by-step guide to setup Axioms according to your authentication, authorization, and access-control requirements.
+        A step-by-step guide to setup Axioms according to your authentication and access-control requirements.
       </>
     ),
     pageUrl: "docs/getting-started/index"
