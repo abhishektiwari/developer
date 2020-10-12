@@ -40,6 +40,12 @@
     --ifm-table-stripe-background: #fff;
     --ifm-link-hover-decoration: none;
     --ifm-color-success: #00d0a0;
+    --ifm-color-success-dark: #00B9B6;
+    --ifm-color-success-darker: #00B9B6;
+    --ifm-color-success-darkest: #00B9B6;
+    --ifm-color-success-light: #22D98C;
+    --ifm-color-success-lighter: #44E280;
+    --ifm-color-success-lightest: #66E97D;
     --ifm-link-color: #3755BE;
 }
 
