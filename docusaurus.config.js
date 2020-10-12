@@ -14,7 +14,7 @@ module.exports = {
             indexName: 'axioms_developer'
         },
         navbar: {
-            title: "axioms",
+            title: "Axioms",
             links: [{
                     to: 'docs/getting-started/index',
                     activeBasePath: 'docs',
@@ -126,7 +126,7 @@ module.exports = {
         ],
     ],
     stylesheets: [
-        'https://fonts.googleapis.com/css?family=Comfortaa|Nunito|Source+Code+Pro',
+        'https://fonts.googleapis.com/css?family=Sen|Source+Code+Pro',
         'https://at-ui.github.io/feather-font/css/iconfont.css'
     ],
     plugins: [

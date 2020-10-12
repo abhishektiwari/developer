@@ -23,7 +23,7 @@
 /* Highlighted search terms */
 
 .algolia-docsearch-suggestion--highlight {
-    color: #3a33d1;
+    color: #3345DF;
 }
 
 
@@ -37,11 +37,11 @@
 /* Currently selected suggestion */
 
 .aa-cursor .algolia-docsearch-suggestion--content {
-    color: #272296;
+    color: #3e7afc;
 }
 
 .aa-cursor .algolia-docsearch-suggestion {
-    background: #ebebfb;
+    background: #fafafa;
 }
 
 
@@ -70,11 +70,11 @@
     content: '';
     width: 14px;
     height: 14px;
-    background: #002e66;
+    background: #3e7afc;
     z-index: 1000;
     top: -7px;
-    border-top: 1px solid #002e66;
-    border-right: 1px solid #002e66;
+    border-top: 1px solid #3e7afc;
+    border-right: 1px solid #3e7afc;
     -webkit-transform: rotate(-45deg);
     transform: rotate(-45deg);
     border-radius: 2px;
@@ -147,7 +147,7 @@
 }
 
 .algolia-autocomplete .algolia-docsearch-suggestion--highlight {
-    background: #ffe564;
+    background: #ffc400;
     padding: 0 0.05em;
 }
 
@@ -190,7 +190,7 @@
     font-size: 14px;
     letter-spacing: 0.08em;
     font-weight: 700;
-    background-color: #002e66;
+    background-color: #3e7afc;
     text-transform: uppercase;
     color: #fff;
     padding: 5px 8px;
@@ -259,7 +259,7 @@
     padding: 8px 0;
     text-align: center;
     font-size: 1.2em;
-    background-color: #002e66;
+    background-color: #3e7afc;
     margin-top: -8px;
 }
 
