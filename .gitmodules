@@ -1,0 +1,8 @@
+[submodule "docs"]
+	path = docs
+	url = git@github.com:axioms-io/docs.git
+	branch = master
+[submodule "blog"]
+	path = blog
+	url = git@github.com:axioms-io/blog.git
+	branch = master
