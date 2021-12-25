@@ -1,7 +1,7 @@
 module.exports = {
     title: 'Axioms Developer Hub',
     tagline: 'Add strong authentication, fine-grained authorization in your apps, devices, and APIs.',
-    url: 'https://developer.axioms.io',
+    url: 'https://axioms.io',
     baseUrl: '/',
     favicon: 'https://static.axioms.io/branding/favicon.png',
     organizationName: 'axioms-io',
@@ -28,18 +28,8 @@ module.exports = {
                     position: 'left',
                 },
                 {
-                    href: 'https://community.axioms.io',
-                    label: 'Community',
-                    position: 'left',
-                },
-                {
-                    href: 'https://jwtdebugger.app/',
+                    href: 'https://jwtdebugger.axioms.io/',
                     label: 'JWT Debugger',
-                    position: 'right',
-                },
-                {
-                    href: 'https://landing.axioms.io/beta',
-                    label: 'Request Invite',
                     position: 'right',
                 },
             ],
